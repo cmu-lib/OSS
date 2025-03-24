@@ -17,9 +17,9 @@ layout: home
 
 <div id='logo-container'><img src="assets/images/temporary-banner-2023.jpg" /></div>
 
-## Open Science Symposium 2023
+## Open Science Symposium 2025
 
-### November 3, 2023
+### November 13, 2025
 
 Join us for our signature open science event, a full day of virtual talks and
 panels from researchers and thought leaders in academia, industry, and publishing.
